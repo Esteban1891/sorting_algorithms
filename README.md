@@ -26,7 +26,7 @@ Write a function that sorts an array of integers in ascending order using the Se
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
 ### Installation
-* git clone https://github.com/EduardoVega04/sorting_algorithms.git
+* git clone https://github.com/Esteban1891/sorting_algorithms.git
 * used gcc -Wall -Wextra -Werror -pedantic (file)-main.c..
 ```sh
 
