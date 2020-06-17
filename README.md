@@ -30,12 +30,12 @@ Write a function that sorts an array of integers in ascending order using the Qu
 * used gcc -Wall -Wextra -Werror -pedantic (file)-main.c..
 ```sh
 
-$ git clone https://github.com/EduardoVega04/sorting_algorithms.git
+$ git clone https://github.com/Esteban1891/sorting_algorithms.git
 $ cd sorting algorithms
 $ used gcc -Wall -Wextra -Werror -pedantic (file)-main.c..
 ```
 
 #### Authors
 
-Twitter [Eduardo vega](https://twitter.com/eduardo_vega04) ||  [Esteban De La Hoz](https://twitter.com/Esteban18911)
+Twitter [Esteban De La Hoz](https://twitter.com/Esteban18911)
 # sorting_algorithms
