@@ -1,10 +1,11 @@
 # 0x1B. C - Sorting algorithms & Big O
 
+A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements.
+
 [![N|Solid](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/pix/bubbleSort.bmp)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://brilliant.org/wiki/sorting-algorithms/)
 
-A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements.
+## Type algorithms :space_invader:
 
   - Selection Sort.
   - Bubble Sort.
