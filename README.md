@@ -9,9 +9,9 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 
 ## Projects
 
-1. [0-bubble_sort](./0-bubble_sort.c)
-1. [1-insertion_sort_list](./1-insertion_sort_list.c)
-1. [3-quick_sort](./3-quick_sort.c)
+1. [bubble_sort](./0-bubble_sort.c)
+1. [insertion_sort_list](./1-insertion_sort_list.c)
+1. [quick_sort](./3-quick_sort.c)
 
 
 ## Type algorithms :space_invader:
