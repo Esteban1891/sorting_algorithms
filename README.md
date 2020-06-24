@@ -9,7 +9,7 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 
 ## Projects
 
-1. [0x00-shell_basics](./)
+1. [0x00-shell_basics](./0-bubble_sort.c)
 1. [0x01-shell_permissions](./)
 1. [0x02-shell_redirections](./)
 1. [0x03-shell_variables_expansions](./0x03-shell_variables_expansions)
