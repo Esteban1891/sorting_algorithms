@@ -7,7 +7,7 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 
 [![N|Solid](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/pix/bubbleSort.bmp)](https://nodesource.com/products/nsolid)
 
-## Projects
+## Projects :open_file_folder:
 
 1. [bubble_sort](./0-bubble_sort.c)
 1. [insertion_sort_list](./1-insertion_sort_list.c)
