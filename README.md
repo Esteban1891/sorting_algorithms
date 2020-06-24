@@ -9,22 +9,9 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 
 ## Projects
 
-1. [0x00-shell_basics](./0-bubble_sort.c)
-1. [0x01-shell_permissions](./1-insertion_sort_list.c)
-1. [0x02-shell_redirections](./)
-1. [0x03-shell_variables_expansions](./0x03-shell_variables_expansions)
-1. [0x04-loops_conditions_and_parsing](.0x04-loops_conditions_and_parsing)
-1. [0x05-processes_and_signals](./0x05-processes_and_signals)
-1. [0x06-regular_expressions](./0x06-regular_expressions)
-1. [0x07-networking_basics](./0x07-networking_basics)
-1. [0x08-networking_basics_2](./0x08-networking_basics_2)
-1. [0x08-web_stack_debugging_0](./0x08-web_stack_debugging_0)
-1. [0x09-web_infrastructure_design](./0x09-web_infrastructure_design)
-1. [0x0A-ssh](./0x0A-ssh)
-1. [0x0B-web_server](./0x0B-web_server)
-1. [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
-1. [0x0F-load_balancer](./0x0F-load_balancer)
-1. [0x10-https_ssl](./0x10-https_ssl)
+1. [0-bubble_sort](./0-bubble_sort.c)
+1. [1-insertion_sort_list](./1-insertion_sort_list.c)
+1. [3-quick_sort](./3-quick_sort.c)
 
 
 ## Type algorithms :space_invader:
