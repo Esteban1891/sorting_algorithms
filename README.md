@@ -1,4 +1,4 @@
-# 0x1B. C - Sorting algorithms & Big O :shipit:
+# 0x1B. C - Sorting algorithms & Big O :computer:
 
 ## Introduction
 
