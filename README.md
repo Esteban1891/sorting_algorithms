@@ -19,8 +19,6 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 * Your programs and functions will be compiled with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
 * In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
-
 ### 0. Bubble sort
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
