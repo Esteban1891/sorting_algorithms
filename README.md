@@ -37,8 +37,10 @@ Write a function that sorts an array of integers in ascending order using the Qu
 
 ## Installation :wrench:
 
-* git clone https://github.com/Esteban1891/sorting_algorithms.git
-* used gcc -Wall -Wextra -Werror -pedantic (file)-main.c..
+In your terminal, git clone the directory with the following command:
+
+```sh
+git clone https://github.com/Esteban1891/[Github project directory]
 
 ```sh
 $ git clone https://github.com/Esteban1891/sorting_algorithms.git
