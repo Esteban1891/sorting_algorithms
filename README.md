@@ -19,23 +19,23 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 * Your programs and functions will be compiled with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
 * In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
 
-### 0. Bubble sort
+## 0. Bubble sort
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
-### 1. Insertion sort
+## 1. Insertion sort
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
-### 2. Selection sort
+## 2. Selection sort
 
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
-### 3. Quick sort
+## 3. Quick sort
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
-### Installation
+## Installation
 
 * git clone https://github.com/Esteban1891/sorting_algorithms.git
 * used gcc -Wall -Wextra -Werror -pedantic (file)-main.c..
